@@ -6,4 +6,9 @@ Usamos a API do Rodrigo Bianchini, disponível em https://github.com/robianchini
 
 Baixamos a API e rodamos localmente na porta 3001.
 
-Equipe: Diana Müller, Gabriel Rocha, Guilherme Carvalho, Mariana Silveira e Lina Amaral.
+Equipe: Diana Müller, Gabriel Rocha Santana, Guilherme Carvalho, Mariana Silveira e Lina Amaral.
+
+para rodar digite no prompt:
+
+npm install
+ng serve
